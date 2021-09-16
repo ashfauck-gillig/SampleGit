@@ -19,7 +19,7 @@ class ViewController: UIViewController {
 
     func sampleHello()
     {
-        print("Hello")
+        print("Hello Dev")
     }
 
 }
