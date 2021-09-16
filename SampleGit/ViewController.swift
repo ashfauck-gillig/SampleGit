@@ -14,12 +14,19 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         self.sampleHello()
+        self.sampleHello1()
     }
 
     func sampleHello()
     {
         print("Hello Dev")
     }
+    
+    func sampleHello1()
+    {
+        print("Hello Dev 1")
+    }
+    
 
 }
 
